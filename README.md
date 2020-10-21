@@ -1,2 +1,2 @@
 # HELLO-WOLD
-Geting to know GitHub
+Getting to know GitHub
